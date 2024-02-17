@@ -1,7 +1,7 @@
 # Ei, seja bem-vindo(a)! Eu sou Kayke Migon
 <br>
 👨🏻‍💻 Developer <br>
-🌎 Rio de Janeiro, Brasil<br>
+🌎 Rio de Janeiro, Brasil
 
 ## 🔗 Links úteis:
  
